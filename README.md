@@ -11,3 +11,6 @@
 * 6\. Select the theme in discord themer and enable transparancy
 * 7\. Restart Aliucord and enjoy
 
+
+### Bugs
+* Some wallpapers will experiance a gray overlay, this is a themer plugin bug and will be fixed in the future

@@ -11,6 +11,8 @@
 * 6\. Select the theme in discord themer and enable transparancy
 * 7\. Restart Aliucord and enjoy
 
+# Video Guide
+[![IMAGE ALT TEXT](https://cdn.discordapp.com/attachments/853967208703459328/874301669737902170/Capture.PNG)](http://www.youtube.com/watch?v=lgk_ED-y9GU "Aliucord Wallpaper Change Guide")
 
 ### Bugs
 * Some wallpapers will experiance a gray overlay, this is a themer plugin bug and will be fixed in the future

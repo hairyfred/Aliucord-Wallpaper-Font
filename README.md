@@ -1,6 +1,7 @@
 # Aliucord-Wallpaper
 ### Disclaimer: This theme will only work with the discord themer plugin NOT the discord themer xposed module
-### Note: ONLY STLL IMAGES WORK, pngs are recommended but other formats should work™️ 
+### Note 1: Make sure the image is actually to the image, not a post on a website else it wil not work
+### Note: ONLY STILL IMAGES WORK, pngs are recommended but other formats should work™️ 
 # A base theme for you to add your own wallpaper to!
 * 1\. Install the discord themer plugin from https://github.com/Vendicated/AliucordPlugins/tree/builds
 * 2\. Download the [Theme](https://downgit.github.io/#/home?url=https://github.com/hairyfred/Aliucord-Wallpaper/blob/main/AliucordWallpaper.json)
